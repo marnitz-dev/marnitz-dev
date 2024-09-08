@@ -9,7 +9,7 @@
 
 
 [<img align="left" alt="MarnitzMalan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MarnitzMalan | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />][email]
+[<img align="left" alt="MarnitzMalan | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 [linkedin]: https://linkedin.com/in/marnitz-malan-76b842102
 [email]: [marnitz.dev@gmail.com](mailto:marnitz.dev@gmail.com)
